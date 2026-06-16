@@ -1,0 +1,11 @@
+img {
+    width: 50%;
+    border: 1px solid rgb(161, 167, 161);
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 5px;
+    transition: 1s;
+}
+img:hover {
+    box-shadow: 0 0 10px 3px Drgba(145, 216, 167, 0.6);
+}
